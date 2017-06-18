@@ -1,7 +1,4 @@
 apply plugin: "groovy"
-apply plugin: "application"
-
-mainClassName = 'org.zirbes.hp.Calculate'
 
 repositories {
     jcenter()
